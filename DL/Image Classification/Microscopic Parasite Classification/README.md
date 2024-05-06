@@ -51,6 +51,10 @@ Microscopic Image Classification Dataset for `Parasite Detection`. This dataset 
 <br>
 <br>
 
+- here is training data sample:
+
+![sample](trainingSample.png)
+
 ---
 
 <a name='2'></a>
