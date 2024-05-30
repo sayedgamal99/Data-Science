@@ -28,6 +28,9 @@ jobs:
       - name: Run update_readme.py
         run: python update_readme.py
 
+      - name: Pull changes
+        run: git pull
+
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
