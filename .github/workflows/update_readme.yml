@@ -42,6 +42,3 @@ jobs:
           
         run: |
           git push https://github-actions:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/sayedgamal99/Data-Science.git HEAD:main
-
-      - name: Pull changes
-        run: git pull
