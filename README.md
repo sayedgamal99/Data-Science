@@ -1,13 +1,6 @@
 # Data Science Projects
 
-### Welcome to my Data Science Projects repository! 📊 Here you’ll find a collection of Jupyter Notebooks showcasing my personal explorations and solutions in the field of data science. From machine learning to data visualization 📈, each project represents a unique challenge and opportunity for growth. Take a look around 👀 and feel free to reach out with any questions or feedback 💬.
-
-<br>
-<br>
-
---- 
-
-This repository contains a collection of machine learning and deep learning projects organized by categories as follows:
+This repository contains a collection of machine learning and deep learning projects organized by categories.
 
 ```
 Data-Science/
@@ -101,13 +94,14 @@ Data-Science/
 │       │   └── notebook.ipynb
 │       └── Ch1 Machine Learning Landscape
 │           └── Exercises.md
+├── .github
+│   └── workflows
+│       └── update_readme.yml
 ├── Analysis
 │   ├── Automobile
 │   │   └── Automobil EDA.ipynb
 │   └── Candy Hierarchy
 │       └── Candy Data Cleaning and Visualization.ipynb
-├── Collected Data
 ├── README.md
-├── README33.md
 └── update_readme.py
 ```
