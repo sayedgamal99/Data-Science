@@ -37,8 +37,7 @@ jobs:
 
       - name: Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          
+
         run: |
           git push https://github-actions:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/sayedgamal99/Data-Science.git HEAD:main
