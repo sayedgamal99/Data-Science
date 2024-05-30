@@ -9,8 +9,10 @@ Data-Science/
 │   │   ├── AirLine Passenge Satisfaction
 │   │   │   ├── .ipynb_checkpoints
 │   │   │   │   └── Airline-Passenger-Satisfaction-checkpoint.ipynb
-│   │   │   └── Airline-Passenger-Satisfaction.ipynb
+│   │   │   ├── Airline-Passenger-Satisfaction.ipynb
+│   │   │   └── README.md
 │   │   ├── Bank Customer Churn Prediction
+│   │   │   ├── README.md
 │   │   │   ├── bank-customer-churn-prediction-0-891-auc-score.ipynb
 │   │   │   ├── image.png
 │   │   │   └── output.png
@@ -19,6 +21,7 @@ Data-Science/
 │   │   │   │   └── Titanic-checkpoint.ipynb
 │   │   │   └── Titanic.ipynb
 │   │   └── Titanic V2.0 Advanced Techniques
+│   │       ├── README.md
 │   │       ├── Titanic- Advanced Techniques-(Accuracy~80).ipynb
 │   │       ├── image-1.png
 │   │       └── image.png
@@ -32,6 +35,7 @@ Data-Science/
 │       ├── Cats and Dogs
 │       │   └── Code.ipynb
 │       └── Microscopic Parasite Classification
+│           ├── README.md
 │           ├── microscopic-image-classification-resnet101v2.ipynb
 │           └── trainingSample.png
 ├── Educational
@@ -96,5 +100,7 @@ Data-Science/
 │   └── Candy Hierarchy
 │       └── Candy Data Cleaning and Visualization.ipynb
 ├── Collected Data
-└── README33.md
+├── README.md
+├── README33.md
+└── update_readme.py
 ```
