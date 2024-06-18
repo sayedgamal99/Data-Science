@@ -41,7 +41,8 @@ Data-Science/
 ├── Educational
 │   └── Hands-On-Machine-Learning
 │       ├── CH10 Introduction to Artificial Neural Networks with Keras
-│       │   └── Introduction to Artificial Neural Networks with Keras.ipynb
+│       │   ├── Introduction to Artificial Neural Networks with Keras.ipynb
+│       │   └── model.png
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
 │       │   ├── Housing_Project.ipynb
