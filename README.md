@@ -41,8 +41,21 @@ Data-Science/
 ├── Educational
 │   └── Hands-On-Machine-Learning
 │       ├── CH10 Introduction to Artificial Neural Networks with Keras
+│       │   ├── ANN_functional1.png
+│       │   ├── ANN_functional2png.png
 │       │   ├── Introduction to Artificial Neural Networks with Keras.ipynb
-│       │   └── model.png
+│       │   ├── checkpoint
+│       │   ├── model.png
+│       │   ├── my_checkpoints.data-00000-of-00001
+│       │   ├── my_checkpoints.index
+│       │   ├── my_keras_model
+│       │   │   ├── keras_metadata.pb
+│       │   │   ├── saved_model.pb
+│       │   │   └── variables
+│       │   │       ├── variables.data-00000-of-00001
+│       │   │       └── variables.index
+│       │   ├── my_weights.data-00000-of-00001
+│       │   └── my_weights.index
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
 │       │   ├── Housing_Project.ipynb
