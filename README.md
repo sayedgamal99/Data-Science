@@ -113,6 +113,7 @@ Data-Science/
 ├── .github
 │   └── workflows
 │       └── update_readme.yml
+├── .gitignore
 ├── Analysis
 │   ├── Automobile
 │   │   └── Automobil EDA.ipynb
