@@ -43,6 +43,8 @@ Data-Science/
 │       ├── CH10 Introduction to Artificial Neural Networks with Keras
 │       │   ├── ANN_functional1.png
 │       │   ├── ANN_functional2png.png
+│       │   ├── Exercises
+│       │   │   └── thoery.md
 │       │   ├── Introduction to Artificial Neural Networks with Keras.ipynb
 │       │   ├── checkpoint
 │       │   ├── model.png
