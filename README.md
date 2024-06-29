@@ -44,6 +44,7 @@ Data-Science/
 │       │   ├── ANN_functional1.png
 │       │   ├── ANN_functional2png.png
 │       │   ├── Exercises
+│       │   │   ├── pratical_mnist_project.ipynb
 │       │   │   └── thoery.md
 │       │   ├── Introduction to Artificial Neural Networks with Keras.ipynb
 │       │   ├── checkpoint
