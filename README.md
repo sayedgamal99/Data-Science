@@ -59,6 +59,8 @@ Data-Science/
 │       │   │       └── variables.index
 │       │   ├── my_weights.data-00000-of-00001
 │       │   └── my_weights.index
+│       ├── CH11 Training Deep Neural Networks
+│       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
 │       │   ├── Housing_Project.ipynb
