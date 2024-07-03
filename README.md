@@ -47,18 +47,7 @@ Data-Science/
 │       │   │   ├── pratical_mnist_project.ipynb
 │       │   │   └── thoery.md
 │       │   ├── Introduction to Artificial Neural Networks with Keras.ipynb
-│       │   ├── checkpoint
-│       │   ├── model.png
-│       │   ├── my_checkpoints.data-00000-of-00001
-│       │   ├── my_checkpoints.index
-│       │   ├── my_keras_model
-│       │   │   ├── keras_metadata.pb
-│       │   │   ├── saved_model.pb
-│       │   │   └── variables
-│       │   │       ├── variables.data-00000-of-00001
-│       │   │       └── variables.index
-│       │   ├── my_weights.data-00000-of-00001
-│       │   └── my_weights.index
+│       │   └── model.png
 │       ├── CH11 Training Deep Neural Networks
 │       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
