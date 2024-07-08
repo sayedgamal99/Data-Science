@@ -50,6 +50,8 @@ Data-Science/
 │       │   └── model.png
 │       ├── CH11 Training Deep Neural Networks
 │       │   └── notebook.ipynb
+│       ├── CH12 Custom Models and Training with TensorFlow
+│       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
 │       │   ├── Housing_Project.ipynb
