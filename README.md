@@ -49,6 +49,8 @@ Data-Science/
 │       │   ├── Introduction to Artificial Neural Networks with Keras.ipynb
 │       │   └── model.png
 │       ├── CH11 Training Deep Neural Networks
+│       │   ├── Exercises
+│       │   │   └── theory.ipynb
 │       │   └── notebook.ipynb
 │       ├── CH12 Custom Models and Training with TensorFlow
 │       │   └── notebook.ipynb
