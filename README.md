@@ -50,6 +50,7 @@ Data-Science/
 │       │   └── model.png
 │       ├── CH11 Training Deep Neural Networks
 │       │   ├── Exercises
+│       │   │   ├── practical.ipynb
 │       │   │   └── theory.ipynb
 │       │   └── notebook.ipynb
 │       ├── CH12 Custom Models and Training with TensorFlow
