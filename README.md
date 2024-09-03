@@ -55,6 +55,8 @@ Data-Science/
 │       │   └── notebook.ipynb
 │       ├── CH12 Custom Models and Training with TensorFlow
 │       │   ├── Exercises
+│       │   │   ├── practical_1.ipynb
+│       │   │   ├── practical_2.ipynb
 │       │   │   └── theory.ipynb
 │       │   └── notebook.ipynb
 │       ├── CH13 Loading and Preprocessing Data with TensorFlow
