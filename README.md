@@ -60,6 +60,8 @@ Data-Science/
 │       │   │   └── theory.ipynb
 │       │   └── notebook.ipynb
 │       ├── CH13 Loading and Preprocessing Data with TensorFlow
+│       │   ├── Exercises
+│       │   │   └── theory.ipynb
 │       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
