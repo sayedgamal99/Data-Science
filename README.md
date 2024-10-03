@@ -65,6 +65,8 @@ Data-Science/
 │       │   │   ├── practical_2.ipynb
 │       │   │   └── theory.ipynb
 │       │   └── notebook.ipynb
+│       ├── CH14 Deep Computer Vision Using Convolutional Neural Networks
+│       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
 │       │   ├── Housing_Project.ipynb
