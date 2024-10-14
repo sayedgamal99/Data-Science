@@ -67,6 +67,8 @@ Data-Science/
 │       │   └── notebook.ipynb
 │       ├── CH14 Deep Computer Vision Using Convolutional Neural Networks
 │       │   ├── Exercises
+│       │   │   ├── Images
+│       │   │   │   └── conv net.jpg
 │       │   │   └── theory.md
 │       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
