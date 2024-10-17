@@ -69,6 +69,7 @@ Data-Science/
 │       │   ├── Exercises
 │       │   │   ├── Images
 │       │   │   │   └── conv net.jpg
+│       │   │   ├── practical_Q9.ipynb
 │       │   │   └── theory.md
 │       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
