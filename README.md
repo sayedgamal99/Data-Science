@@ -66,6 +66,7 @@ Data-Science/
 │       │   │   └── theory.ipynb
 │       │   └── notebook.ipynb
 │       ├── CH14 Deep Computer Vision Using Convolutional Neural Networks
+│       │   ├── Digit-Recognizer-APP
 │       │   ├── Exercises
 │       │   │   ├── Images
 │       │   │   │   └── conv net.jpg
@@ -130,6 +131,7 @@ Data-Science/
 │   └── workflows
 │       └── update_readme.yml
 ├── .gitignore
+├── .gitmodules
 ├── Analysis
 │   ├── Automobile
 │   │   └── Automobil EDA.ipynb
