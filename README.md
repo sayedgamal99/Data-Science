@@ -70,6 +70,7 @@ Data-Science/
 │       │   ├── Exercises
 │       │   │   ├── Images
 │       │   │   │   └── conv net.jpg
+│       │   │   ├── beans-leafs-diaster-classification.ipynb
 │       │   │   ├── practical_Q9.ipynb
 │       │   │   └── theory.md
 │       │   └── notebook.ipynb
