@@ -32,12 +32,8 @@ Data-Science/
 │           └── Cost Predictions .ipynb
 ├── DL
 │   └── Image Classification
-│       ├── Cats and Dogs
-│       │   └── Code.ipynb
-│       └── Microscopic Parasite Classification
-│           ├── README.md
-│           ├── microscopic-image-classification-resnet101v2.ipynb
-│           └── trainingSample.png
+│       └── Cats and Dogs
+│           └── Code.ipynb
 ├── Educational
 │   └── Hands-On-Machine-Learning
 │       ├── CH10 Introduction to Artificial Neural Networks with Keras
