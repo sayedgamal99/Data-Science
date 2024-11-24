@@ -70,6 +70,8 @@ Data-Science/
 │       │   │   ├── practical_Q9.ipynb
 │       │   │   └── theory.md
 │       │   └── notebook.ipynb
+│       ├── CH15 Processing Sequences Using RNNs and CNNs
+│       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
 │       │   ├── Housing_Project.ipynb
