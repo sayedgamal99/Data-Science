@@ -71,6 +71,10 @@ Data-Science/
 │       │   │   └── theory.md
 │       │   └── notebook.ipynb
 │       ├── CH15 Processing Sequences Using RNNs and CNNs
+│       │   ├── datasets
+│       │   │   ├── ridership
+│       │   │   │   └── CTA_-_Ridership_-_Daily_Boarding_Totals.csv
+│       │   │   └── ridership.tgz
 │       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
