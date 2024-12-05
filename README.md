@@ -141,5 +141,6 @@ Data-Science/
 │   └── Candy Hierarchy
 │       └── Candy Data Cleaning and Visualization.ipynb
 ├── README.md
+├── requirements.txt
 └── update_readme.py
 ```
