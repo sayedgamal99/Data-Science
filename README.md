@@ -71,6 +71,9 @@ Data-Science/
 │       │   │   └── theory.md
 │       │   └── notebook.ipynb
 │       ├── CH15 Processing Sequences Using RNNs and CNNs
+│       │   ├── Exercises
+│       │   │   ├── lstm.png
+│       │   │   └── theory.md
 │       │   ├── datasets
 │       │   │   ├── ridership
 │       │   │   │   └── CTA_-_Ridership_-_Daily_Boarding_Totals.csv
