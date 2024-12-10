@@ -72,6 +72,7 @@ Data-Science/
 │       │   └── notebook.ipynb
 │       ├── CH15 Processing Sequences Using RNNs and CNNs
 │       │   ├── Exercises
+│       │   │   ├── Classification_of_Sequences_with_quickdraw_dataset.ipynb
 │       │   │   ├── lstm.png
 │       │   │   └── theory.md
 │       │   ├── datasets
