@@ -81,6 +81,8 @@ Data-Science/
 │       │   │   └── ridership.tgz
 │       │   └── notebook.ipynb
 │       ├── CH16 Natural Language Processing with RNNs and Attention
+│       │   ├── models
+│       │   │   └── shakespeare_model.keras
 │       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
