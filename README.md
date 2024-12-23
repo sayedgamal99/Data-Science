@@ -80,6 +80,8 @@ Data-Science/
 │       │   │   │   └── CTA_-_Ridership_-_Daily_Boarding_Totals.csv
 │       │   │   └── ridership.tgz
 │       │   └── notebook.ipynb
+│       ├── CH16 Natural Language Processing with RNNs and Attention
+│       │   └── notebook.ipynb
 │       ├── CH2 End-to-End Machine Learning Project
 │       │   ├── Exercises.ipynb
 │       │   ├── Housing_Project.ipynb
